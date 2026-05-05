@@ -1,10 +1,5 @@
 # Qanoon-AI-Legal-Assistant-Pakistan
 <img width="1355" height="1161" alt="Image" src="https://github.com/user-attachments/assets/41031cae-40d7-4114-8914-12904d812224" />
-# ⚖️ QANOON AI - Pakistan's Legal Artificial Intelligence
-
-<div align="center">
-
-![QANOON AI Banner](https://via.placeholder.com/1200x400/006400/ffffff?text=QANOON+AI+-+Pakistan's+Legal+AI)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
