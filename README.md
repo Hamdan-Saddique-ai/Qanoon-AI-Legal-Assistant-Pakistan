@@ -81,10 +81,61 @@
 ## 📜 Legal Knowledge Base
 Data Sources          
 Act	Sections	Status                                     
-Constitution of Pakistan 1973	280 Articles	✅ Complete    
-Pakistan Penal Code (PPC)	511 Sections	✅ Complete            
-Code of Criminal Procedure (CrPC)	565 Sections	🔄 In Progress      
-Code of Civil Procedure (CPC)	158 Sections	🔄 In Progress     
-Qanun-e-Shahadat 1984	167 Articles	🔄 In Progress   
-Supreme Court Judgments	10,000+ Cases	🚧 Planned        
+Constitution of Pakistan 1973	280 Articles	         ✅ Complete    
+Pakistan Penal Code (PPC)	511 Sections	             ✅ Complete            
+Code of Criminal Procedure (CrPC)	565 Sections	     🔄 In Progress      
+Code of Civil Procedure (CPC)	158 Sections	         🔄 In Progress     
+Qanun-e-Shahadat 1984	167 Articles	                 🔄 In Progress   
+Supreme Court Judgments	10,000+ Cases	               🚧 Planned        
+## 🧠 Architecture Overview
 
+QANOON AI follows a modular AI architecture:          
+
+LLM Layer → Handles conversation + reasoning           
+RAG Pipeline → Retrieves relevant legal sections         
+Vector Database → Stores embeddings of laws & cases        
+OCR Module → Extracts text from legal documents      
+API Layer → Connects frontend with AI services       
+## 🔍 How RAG Works
+User asks a legal question             
+Query is converted into embeddings           
+Vector DB retrieves relevant legal sections        
+Context is passed to LLM                            
+AI generates accurate, citation-backed response           
+## 🌍 Use Cases
+👨‍⚖️ Understanding legal rights    
+🏠 Property disputes guidance      
+💼 Employment law queries      
+👩‍👧 Family law assistance                   
+🚓 FIR & criminal procedure guidance         
+📄 Drafting legal notices        
+## ⚠️ Disclaimer
+
+QANOON AI is an AI-powered legal assistant, not a licensed lawyer.  
+
+It provides informational guidance only             
+Not a substitute for professional legal advice          
+Always consult a qualified lawyer for critical cases             
+
+## 🛣️ Roadmap
+⚖️ Case Law Search Engine (PLD/SCMR)        
+📊 AI Legal Analytics Dashboard          
+🧾 Smart Contract Generator           
+📱 Mobile App (Android/iOS)                        
+🌐 Regional Language Support (Punjabi, Sindhi)      
+💡 Future Vision        
+                                                                  
+## To make legal awareness a fundamental right in Pakistan by:        
+     
+Democratizing access to law                                        
+Reducing dependency on expensive legal services     
+Empowering citizens with knowledge            
+## ⭐ Support the Project                                     
+                            
+If you find this useful:                  
+
+## AUTHOR
+**Hamdan Saddique**
+**⭐ Star the repo**           
+🍴 Fork it          
+📢 Share with others     
