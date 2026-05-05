@@ -70,11 +70,21 @@
 | 📊 **Legal Analytics** | Track case success probabilities | 🚧 Coming |
 
 ### Legal Domains Covered
-✅ Pakistan Penal Code (PPC) - Sections 1 to 511
-✅ Constitution of Pakistan 1973 - Articles 1 to 280
-✅ Code of Criminal Procedure (CrPC) 1898
-✅ Code of Civil Procedure (CPC) 1908
-✅ Qanun-e-Shahadat 1984 (Evidence Act)
-✅ Muslim Family Laws Ordinance 1961
-✅ Supreme Court Judgments (PLD, SCMR)
-✅ High Court Judgments (Lahore, Sindh, Peshawar, Balochistan, ICT)
+✅ Pakistan Penal Code (PPC) - Sections 1 to 511        
+✅ Constitution of Pakistan 1973 - Articles 1 to 280         
+✅ Code of Criminal Procedure (CrPC) 1898        
+✅ Code of Civil Procedure (CPC) 1908         
+✅ Qanun-e-Shahadat 1984 (Evidence Act)          
+✅ Muslim Family Laws Ordinance 1961          
+✅ Supreme Court Judgments (PLD, SCMR)                                
+✅ High Court Judgments (Lahore, Sindh, Peshawar, Balochistan, ICT)             
+## 📜 Legal Knowledge Base
+Data Sources          
+Act	Sections	Status                                     
+Constitution of Pakistan 1973	280 Articles	✅ Complete    
+Pakistan Penal Code (PPC)	511 Sections	✅ Complete            
+Code of Criminal Procedure (CrPC)	565 Sections	🔄 In Progress      
+Code of Civil Procedure (CPC)	158 Sections	🔄 In Progress     
+Qanun-e-Shahadat 1984	167 Articles	🔄 In Progress   
+Supreme Court Judgments	10,000+ Cases	🚧 Planned        
+
